@@ -40,7 +40,7 @@ var hostConfig = []struct {
 	{"Kenny", 8087, 38207, false},
 	{"Eve", 8088, 38208, false},
 	// Mallory has a mock document.Serivce to facilitate some Byzantine test
-	{"Mallory", 8089, 38209, false},
+	//{"Mallory", 8089, 38209, false},
 }
 
 const defaultP2PTimeout = "10s"
